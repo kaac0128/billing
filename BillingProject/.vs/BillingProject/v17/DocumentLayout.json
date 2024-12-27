@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\infrastructure\\data\\repositories\\catproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\catproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\infrastructure\\data\\repositories\\cattipoclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\cattipoclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\infrastructure\\data\\repositories\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\facturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\infrastructure\\data\\repositories\\tblclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\tblclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\facturarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\facturarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\interfaces\\ifacturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ifacturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\interfaces\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ifacturasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\services\\facturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\services\\facturasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\services\\cattipoclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\services\\cattipoclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\tblfacturasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\tblfacturasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\tbldetallesfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\tbldetallesfacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\tblclientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\tblclientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\cattipoclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\cattipoclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\dtos\\catproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\dtos\\catproductosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\services\\tblclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\services\\tblclientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\controllers\\catproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\controllers\\catproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\services\\catproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\services\\catproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\infrastructure\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1BAC74-AC79-4680-9695-0A45D016259B}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\controllers\\tblclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\controllers\\tblclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\billingproject\\controllers\\cattipoclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AAFE84-5FD0-4CA3-8949-A5B821C2C0DC}|BillingProject\\BillingProject.csproj|solutionrelative:billingproject\\controllers\\cattipoclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\interfaces\\itblclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\itblclientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\interfaces\\icattipoclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icattipoclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\entities\\tblfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tblfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\entities\\tbldetallesfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tbldetallesfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\entities\\tblclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tblclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\entities\\cattipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cattipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\domain\\entities\\catproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D728AC57-008A-4529-BD80-40C671898DAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\catproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\interfaces\\icattipoclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icattipoclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|c:\\users\\kaac1\\onedrive\\documentos\\myapps\\novareserve\\billingproject\\application\\interfaces\\icatproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315142E6-498B-4D3F-99DD-E6C36944A5A1}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icatproductosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\FacturasRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Data\\Repositories\\FacturasRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\FacturasRepository.cs",
+              "RelativeToolTip": "infrastructure\\Data\\Repositories\\FacturasRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:36:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacturasService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\IFacturasService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IFacturasService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\IFacturasService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IFacturasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:57:04.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "BillingProject\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "BillingProject\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:41:38.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatProductosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\CatProductosRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Data\\Repositories\\CatProductosRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\CatProductosRepository.cs",
+              "RelativeToolTip": "infrastructure\\Data\\Repositories\\CatProductosRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:54:15.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatTipoClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\CatTipoClienteRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Data\\Repositories\\CatTipoClienteRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\CatTipoClienteRepository.cs",
+              "RelativeToolTip": "infrastructure\\Data\\Repositories\\CatTipoClienteRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:20:13.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturasService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\FacturasService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FacturasService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\FacturasService.cs",
+              "RelativeToolTip": "Application\\Services\\FacturasService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:57:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\FacturaRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FacturaRequest.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\FacturaRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\FacturaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:08:30.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\TblClientesRepository.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Data\\Repositories\\TblClientesRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\Repositories\\TblClientesRepository.cs",
+              "RelativeToolTip": "infrastructure\\Data\\Repositories\\TblClientesRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:56:13.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFacturasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\IFacturasRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFacturasRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\IFacturasRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IFacturasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:37:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatTipoClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\CatTipoClienteService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CatTipoClienteService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\CatTipoClienteService.cs",
+              "RelativeToolTip": "Application\\Services\\CatTipoClienteService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:46:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TblFacturasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblFacturasDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TblFacturasDTO.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblFacturasDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TblFacturasDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:58:06.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TblDetallesFacturaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblDetallesFacturaDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TblDetallesFacturaDTO.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblDetallesFacturaDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TblDetallesFacturaDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:57:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TblClientesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblClientesDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TblClientesDTO.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\TblClientesDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\TblClientesDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:55:05.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CatTipoClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\CatTipoClienteDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CatTipoClienteDTO.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\CatTipoClienteDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\CatTipoClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:53:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CatProductosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\CatProductosDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CatProductosDTO.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\DTOs\\CatProductosDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\CatProductosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:18:13.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TblClientesService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\TblClientesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TblClientesService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\TblClientesService.cs",
+              "RelativeToolTip": "Application\\Services\\TblClientesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:55:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CatProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\CatProductosController.cs",
+              "RelativeDocumentMoniker": "BillingProject\\Controllers\\CatProductosController.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\CatProductosController.cs",
+              "RelativeToolTip": "BillingProject\\Controllers\\CatProductosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:41:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CatProductosService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\CatProductosService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CatProductosService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Services\\CatProductosService.cs",
+              "RelativeToolTip": "Application\\Services\\CatProductosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:39:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Data\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\infrastructure\\Data\\DatabaseManager.cs",
+              "RelativeToolTip": "infrastructure\\Data\\DatabaseManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:41:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Program.cs",
+              "RelativeDocumentMoniker": "BillingProject\\Program.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Program.cs",
+              "RelativeToolTip": "BillingProject\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:40:07.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TblClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\TblClientesController.cs",
+              "RelativeDocumentMoniker": "BillingProject\\Controllers\\TblClientesController.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\TblClientesController.cs",
+              "RelativeToolTip": "BillingProject\\Controllers\\TblClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:43:57.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CatTipoClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\CatTipoClienteController.cs",
+              "RelativeDocumentMoniker": "BillingProject\\Controllers\\CatTipoClienteController.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\Controllers\\CatTipoClienteController.cs",
+              "RelativeToolTip": "BillingProject\\Controllers\\CatTipoClienteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:45:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BillingProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\BillingProject\\appsettings.json",
+              "RelativeToolTip": "BillingProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T14:34:27.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITblClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\ITblClientesRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITblClientesRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\ITblClientesRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITblClientesRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:56:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICatTipoClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\ICatTipoClienteRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICatTipoClienteRepository.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Interfaces\\ICatTipoClienteRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICatTipoClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:54:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TblFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblFacturas.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TblFacturas.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblFacturas.cs",
+              "RelativeToolTip": "Domain\\Entities\\TblFacturas.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:23:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TblDetallesFactura.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblDetallesFactura.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TblDetallesFactura.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblDetallesFactura.cs",
+              "RelativeToolTip": "Domain\\Entities\\TblDetallesFactura.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:23:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TblClientes.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblClientes.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TblClientes.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\TblClientes.cs",
+              "RelativeToolTip": "Domain\\Entities\\TblClientes.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:23:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CatTipoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\CatTipoCliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CatTipoCliente.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\CatTipoCliente.cs",
+              "RelativeToolTip": "Domain\\Entities\\CatTipoCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:23:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CatProductos.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\CatProductos.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CatProductos.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Domain\\Entities\\CatProductos.cs",
+              "RelativeToolTip": "Domain\\Entities\\CatProductos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:56:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICatTipoClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\ICatTipoClienteService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICatTipoClienteService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\ICatTipoClienteService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICatTipoClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:53:34.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICatProductosService.cs",
+              "DocumentMoniker": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\ICatProductosService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICatProductosService.cs",
+              "ToolTip": "C:\\Users\\KAAC1\\OneDrive\\Documentos\\myapps\\NovaReserve\\BillingProject\\Application\\Interfaces\\ICatProductosService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICatProductosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:38:55.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
